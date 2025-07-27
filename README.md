@@ -29,7 +29,7 @@ samples, guidance on mobile development, and a full API reference.
 - ✅ **Save tasks locally** using `shared_preferences` (no internet required)
 - ✅ **Responsive UI** with modern design and FAB
 - ✅ **Persistent storage** (data is retained even after app restarts)
-- 🔐 *Google Sign-In (coming soon)*
+- 🔐 *Google Sign-In (Planned)*
 - 🧹 *Swipe-to-delete (planned)*
 - 🔍 *Task filtering tabs (planned)*
 
