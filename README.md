@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # taskify
 
 A new Flutter project.
